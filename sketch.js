@@ -8,7 +8,7 @@ function setup() {
  // createSprite(400, 200, 50, 50);
   wall= createSprite(1000,200,20,height/2)
  car=createSprite(50,200,10,10)
-  speed=random(55,200)
+  speed=random(55,90)
  weight=random (400,1500)
 
  
